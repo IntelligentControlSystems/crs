@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Marcus\Documents\ETH\Altium SVN\CRS RC car front Encoder\PCB Project Outputs\Pick Place\Pick Place for Main.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/02/22
+Time:       11:06
+Revision:   364
+Variant:    No variations
+Units used: mm
+
+Designator Comment      Layer       Footprint          Center-X(mm) Center-Y(mm) Rotation Description                                                                                           
+U2         TMAG5123D1CQ BottomLayer SOT23-N            173.9900     36.8300      360      "Board Mount Hall Effect/Magnetic Sensors High-voltage (up to 38 V), in-plane, high-precision switch" 
+U1         TMAG5123D1CQ TopLayer    SOT23-N            173.8630     36.8300      180      "Board Mount Hall Effect/Magnetic Sensors High-voltage (up to 38 V), in-plane, high-precision switch" 
+P1         "Header 3"   TopLayer    1.27mm_HDR1X3      158.4960     33.7820      90       "Header, 3-Pin"                                                                                       
+C2         0.1uF        BottomLayer CAP_0603i_1608m_-N 169.6720     36.8300      360      capacitor                                                                                             
+C1         0.1uF        TopLayer    CAP_0603i_1608m_-N 169.6720     36.8300      360      capacitor                                                                                             

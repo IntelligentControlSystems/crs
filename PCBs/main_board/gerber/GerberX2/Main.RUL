@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Marcus\Documents\ETH\Altium SVN\CRS RC car v00P3\Main.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Component|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_Via|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=signal line width|Scope=Board|Minimum=6.69
+RuleKind=Clearance|RuleName=Clearance_JLCPCB|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

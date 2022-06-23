@@ -1,0 +1,34 @@
+%TF.GenerationSoftware,Altium Limited,Altium NEXUS,3.2.6 (83)*%
+G04 Layer_Color=128*
+%FSLAX44Y44*%
+%MOMM*%
+%TF.SameCoordinates,5756E3B1-B313-435C-8378-40D670EA1E03*%
+%TF.FilePolarity,Positive*%
+%TF.FileFunction,Paste,Bot*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,SMDPad,CuDef*%
+G04:AMPARAMS|DCode=10|XSize=0.55mm|YSize=1.55mm|CornerRadius=0mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=90.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=Octagon|*
+%AMOCTAGOND10*
+4,1,8,-0.7750,-0.1375,-0.7750,0.1375,-0.6375,0.2750,0.6375,0.2750,0.7750,0.1375,0.7750,-0.1375,0.6375,-0.2750,-0.6375,-0.2750,-0.7750,-0.1375,0.0*
+%
+%ADD10OCTAGOND10*%
+
+%ADD11R,1.5500X0.5500*%
+%ADD12R,1.0000X1.0000*%
+D10*
+X1723750Y454230D02*
+D03*
+D11*
+Y435230D02*
+D03*
+X1705250Y444730D02*
+D03*
+D12*
+X1686480Y451230D02*
+D03*
+Y435230D02*
+D03*
+%TF.MD5,b43a34ba6fb117c2b1bdbaabe7aa9d5d*%
+M02*
